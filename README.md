@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lewar Salar
 - 👀 I’m interested in Game developing and scripting
-- 🌱 I’m currently learning Python, Luaa, and trying to learn C# and C++
+- 🌱 I’m currently learning Python, Luaa, C# and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Send an email to lewarhelarsb@gmail.com
+- 📫 How to reach me: Send an email to kDocs.Terminal@gmail.com
 
 <!---
 fs1fsdhfjkdbhs/fs1fsdhfjkdbhs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
