@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lewar Salar
 - 👀 I’m interested in Game developing and scripting
-- 🌱 I’m currently learning Python, Luaa, C# and C++
+- 🌱 I’m currently learning Python, Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Send an email to kDocs.Terminal@gmail.com
 
